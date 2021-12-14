@@ -14,7 +14,7 @@ The project is essentially a program which applies image processing, retrieves n
 4. PyAutoGUI
  
 
-<b>Aim</b>
+<b>AIM</b><br>
 The project’s primary aim is to improve the scope of human and computer interaction by developing an effective alternative way of controlling the mouse pointer and its various functions such as left click, right click, scroll up, scroll down and selection. It helps user interact with the computer from a considerable distance without any issue and efficiently without actually touching the mouse. It also decreases the hardware requirement for the interaction by eliminating the necessity of a mouse. All the user needs is a web camera (which is mostly present in all laptops these days) which can record real-time videos. 
 
 
